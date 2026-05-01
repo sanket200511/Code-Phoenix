@@ -8,7 +8,6 @@
     BACKEND: HTTPS://SHIELDCALL-AI.ONRENDER.COM/
     ANDROID APP: HTTPS://BIT.LY/4QTYQ7Z  
 **5. Demonstration Video**: [Watch Demo Video](https://drive.google.com/file/d/1EKkd4FeVVt8TOk3efdNrGOP1hQFlysAf/view?usp=drive_link)  
-**6. PPT Link**: [View Presentation (PDF)](https://drive.google.com/file/d/1HasRAs1MC97HqUN0sobOuLuBmRLG6PHK/view?usp=drive_link)
 
 ---
 
